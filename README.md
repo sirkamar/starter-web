@@ -4,7 +4,8 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 
-This is a simple web app for testing Git and GitHub
+This is a simple web app for testing Git and GitHub.
+Adding a line for rebasing example.
 
 ## Purpose
 
