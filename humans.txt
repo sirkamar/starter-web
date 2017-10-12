@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Kamar Morris -- Blogger -- sirkamar
 
 # THANKS
 
