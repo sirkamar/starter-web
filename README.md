@@ -16,7 +16,8 @@ Use apache tomcat or any web server
 
 ## How to Contribute
 
-Send email to starter-web@git.training.org to be granted access
+Please fork this repo and then issue Pull Requests for review. 
+Send email to starter-web@git.training.org to be added to mailing list.
 
 ### Copyright
 
