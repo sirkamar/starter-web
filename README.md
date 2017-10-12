@@ -17,3 +17,7 @@ Use apache tomcat or any web server
 ## How to Contribute
 
 Send email to starter-web@git.training.org to be granted access
+
+### Copyright
+
+2017 Git.Training
